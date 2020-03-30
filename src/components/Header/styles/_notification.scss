@@ -1,0 +1,55 @@
+.notification {
+  width: 380px;
+  height: 627px;
+  border: 2px solid #f1f1f1;
+  box-sizing: border-box;
+  border-radius: 32px;
+  background: #fff;
+  color: #1a1a1a;
+  text-align: center;
+
+  &__title {
+    margin: 32px 0 19px;
+    font-size: 24px;
+    line-height: 29px;
+  }
+
+  &__cost {
+    margin-top: 16px;
+    margin-bottom: 48px;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 59px;
+
+    &--active {
+      margin-bottom: 39px;
+      font-size: 56px;
+      line-height: 68px;
+      color: #3a80ba;
+    }
+  }
+
+  &__services {
+    list-style: none;
+    color: #7e7e7e;
+    font-size: 16px;
+    line-height: 162%;
+    padding: 0 0 24px;
+    margin: 0;
+  }
+
+  &__button {
+    display: block;
+    margin: 0 auto;
+    background: #3a80ba;
+    width: 220px;
+    height: 56px;
+    border-radius: 8px;
+    line-height: 56px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    color: #fff;
+    cursor: pointer;
+  }
+}

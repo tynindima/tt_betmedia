@@ -1,3 +1,15 @@
-.head {
-  background-color: red;
+html,
+body,
+h1,
+h2,
+h3,
+p {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+  font-style: normal;
+  background: #e5e5e5;
 }

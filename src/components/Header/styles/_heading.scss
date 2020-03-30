@@ -1,0 +1,31 @@
+.heading {
+  width: 586px;
+  margin-top: 48px;
+
+  &__title {
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 59px;
+  }
+
+  &__text {
+    margin-top: 24px;
+    margin-bottom: 32px;
+    font-size: 20px;
+    line-height: 148%;
+  }
+
+  &__button {
+    display: block;
+    background: #fff;
+    width: 154px;
+    height: 56px;
+    border-radius: 8px;
+    line-height: 56px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    color: #3a80ba;
+    cursor: pointer;
+  }
+}

@@ -1,0 +1,38 @@
+.footer {
+  position: relative;
+  height: 183.46px;
+  margin-top: 38px;
+  background-image: url("../img/Rectangle 54.svg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  color: #fff;
+
+  &__form {
+    position: relative;
+    top: 26px;
+    left: calc(50% - 289.5px);
+    width: 579px;
+    height: 64px;
+    background-color: #fff;
+    border: 1px solid #f1f1f1;
+    box-sizing: border-box;
+    border-radius: 10px;
+  }
+
+  &__block {
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 0 30px;
+
+  }
+
+  &__title {
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 39px;
+  }
+
+  &__text {
+    font-size: 16px;
+  }
+}

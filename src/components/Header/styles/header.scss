@@ -1,0 +1,28 @@
+@import "container";
+@import "heading";
+@import "phone";
+@import "description";
+@import "card";
+@import "managing";
+@import "price";
+@import "notification";
+@import "footer";
+@import "form";
+
+.header {
+  position: relative;
+  font-family: "Montserrat", sans-serif;
+  font-style: normal;
+  color: white;
+  height: 655px;
+  background-image: url("../img/Rectangle 8.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  &__emblem {
+    padding-top: 24px;
+    font-weight: normal;
+    font-size: 40px;
+    line-height: 49px;
+  }
+}

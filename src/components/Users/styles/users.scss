@@ -1,0 +1,61 @@
+@import "table";
+@import "users_footer";
+
+.users {
+  &__head {
+    padding: 0 130px;
+    height: 72px;
+    background-color: #3a80ba;
+  }
+
+  &__emblem {
+    padding-top: 10px;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 49px;
+    color: #fff;
+  }
+
+  &__links {
+    margin: 16px 0 24px;
+  }
+
+  &__link {
+    display: inline-block;
+    text-decoration: none;
+    font-size: 16px;
+    line-height: 20px;
+
+    &--main {
+      position: relative;
+      color: #ccc;
+    }
+
+    &--main::after {
+      content: "";
+      position: absolute;
+      left: calc(100% + 8px);
+      top: calc(50% - 2px);
+      width: 4px;
+      height: 8px;
+      background-image: url("../img/Line_8.svg");
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
+
+    }
+
+    &--users {
+      margin-left: 20px;
+      color: #3a80ba;
+    }
+  }
+
+  &__title {
+    margin-bottom: 16px;
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 39px;
+    color: #1a1a1a;
+  }
+}

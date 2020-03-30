@@ -1,0 +1,32 @@
+.description {
+  font-family: "Montserrat", sans-serif;
+  font-style: normal;
+  color: #1a1a1a;
+
+  &__title {
+    width: 580px;
+    height: 78px;
+    margin: 16px auto 24px;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 39px;
+    text-align: center;
+  }
+
+  &__text {
+    width: 780px;
+    height: 56px;
+    font-size: 20px;
+    text-align: center;
+    line-height: 28px;
+    margin: 0 auto;
+    color: #7e7e7e;
+  }
+
+  &__cards {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+    padding-bottom: 81px;
+  }
+}

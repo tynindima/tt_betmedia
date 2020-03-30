@@ -1,3 +1,3 @@
-# React Tabs with Router
-- Replace `<your_account>` with your Github username in the
-  [DEMO LINK](https://<your_account>.github.io/react_tabs-with-router/)
+# Test Task
+
+  [DEMO LINK](https://tynindima.github.io/tt_betmedia/)

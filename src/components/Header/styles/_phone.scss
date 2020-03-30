@@ -1,0 +1,21 @@
+.phone {
+  position: absolute;
+  bottom: 24px;
+  right: 100px;
+  width: 276px;
+  height: 558.7px;
+  background: white;
+  border-radius: 30px;
+
+  &__display {
+    display: block;
+    margin: 7px auto 0;
+    background-image: url("../img/mobile.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 20px;
+    width: 242px;
+    height: 540px;
+  }
+}
