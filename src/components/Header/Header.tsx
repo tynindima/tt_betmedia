@@ -1,4 +1,4 @@
-import React, {ChangeEvent, FC, useState} from 'react';
+import React, { ChangeEvent, FC, useState } from 'react';
 import './styles/header.scss';
 import { Link } from 'react-router-dom';
 import { cards } from './api/cards';
