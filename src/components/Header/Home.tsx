@@ -5,7 +5,7 @@ import { cards } from './api/cards';
 import { notifications } from './api/notification';
 import macbook from './img/macbook.svg';
 
-export const Header: FC = () => {
+export const Home: FC = () => {
   const [text, setText] = useState('');
 
   const handleInput = (event: ChangeEvent<HTMLInputElement>) => {
