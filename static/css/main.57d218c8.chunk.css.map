@@ -1,1 +1,0 @@
-{"version":3,"sources":["header.scss","App.scss"],"names":[],"mappings":"AAAA,SACE,sBAAuB,CCDzB,MACE,oBAAqB","file":"main.57d218c8.chunk.css","sourcesContent":[".header2 {\n  background-color: green;\n}\n",".head {\n  background-color: red;\n}\n"]}
