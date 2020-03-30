@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "./static/css/main.155aff43.chunk.css",
-    "main.js": "./static/js/main.3108fb70.chunk.js",
-    "main.js.map": "./static/js/main.3108fb70.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.491c8e82.js",
-    "runtime-main.js.map": "./static/js/runtime-main.491c8e82.js.map",
-    "static/js/2.d28b31d0.chunk.js": "./static/js/2.d28b31d0.chunk.js",
-    "static/js/2.d28b31d0.chunk.js.map": "./static/js/2.d28b31d0.chunk.js.map",
-    "index.html": "./index.html",
-    "precache-manifest.cf55ba6cbea51064d1f4eb7175671494.js": "./precache-manifest.cf55ba6cbea51064d1f4eb7175671494.js",
-    "service-worker.js": "./service-worker.js",
-    "static/css/main.155aff43.chunk.css.map": "./static/css/main.155aff43.chunk.css.map",
-    "static/js/2.d28b31d0.chunk.js.LICENSE.txt": "./static/js/2.d28b31d0.chunk.js.LICENSE.txt",
-    "static/media/users.scss": "./static/media/Line_8.481c6ca7.svg",
-    "static/media/header.scss": "./static/media/mobile.bdfa703f.png",
-    "static/media/clean_design.svg": "./static/media/clean_design.2969c024.svg",
-    "static/media/macbook.svg": "./static/media/macbook.cd5f3f2d.svg",
-    "static/media/retina_ready.svg": "./static/media/retina_ready.f751d5fd.svg",
-    "static/media/secure_data.svg": "./static/media/secure_data.5f21ae72.svg"
+    "main.css": "/tt_betmedia/static/css/main.7f2e7355.chunk.css",
+    "main.js": "/tt_betmedia/static/js/main.5ae42ac4.chunk.js",
+    "main.js.map": "/tt_betmedia/static/js/main.5ae42ac4.chunk.js.map",
+    "runtime-main.js": "/tt_betmedia/static/js/runtime-main.2c5754d4.js",
+    "runtime-main.js.map": "/tt_betmedia/static/js/runtime-main.2c5754d4.js.map",
+    "static/js/2.d28b31d0.chunk.js": "/tt_betmedia/static/js/2.d28b31d0.chunk.js",
+    "static/js/2.d28b31d0.chunk.js.map": "/tt_betmedia/static/js/2.d28b31d0.chunk.js.map",
+    "index.html": "/tt_betmedia/index.html",
+    "precache-manifest.a97ba00e434ca0a13c64a5ae16160b38.js": "/tt_betmedia/precache-manifest.a97ba00e434ca0a13c64a5ae16160b38.js",
+    "service-worker.js": "/tt_betmedia/service-worker.js",
+    "static/css/main.7f2e7355.chunk.css.map": "/tt_betmedia/static/css/main.7f2e7355.chunk.css.map",
+    "static/js/2.d28b31d0.chunk.js.LICENSE.txt": "/tt_betmedia/static/js/2.d28b31d0.chunk.js.LICENSE.txt",
+    "static/media/users.scss": "/tt_betmedia/static/media/Line_8.481c6ca7.svg",
+    "static/media/header.scss": "/tt_betmedia/static/media/mobile.bdfa703f.png",
+    "static/media/clean_design.svg": "/tt_betmedia/static/media/clean_design.2969c024.svg",
+    "static/media/macbook.svg": "/tt_betmedia/static/media/macbook.cd5f3f2d.svg",
+    "static/media/retina_ready.svg": "/tt_betmedia/static/media/retina_ready.f751d5fd.svg",
+    "static/media/secure_data.svg": "/tt_betmedia/static/media/secure_data.5f21ae72.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.491c8e82.js",
+    "static/js/runtime-main.2c5754d4.js",
     "static/js/2.d28b31d0.chunk.js",
-    "static/css/main.155aff43.chunk.css",
-    "static/js/main.3108fb70.chunk.js"
+    "static/css/main.7f2e7355.chunk.css",
+    "static/js/main.5ae42ac4.chunk.js"
   ]
 }
