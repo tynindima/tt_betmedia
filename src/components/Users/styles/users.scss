@@ -58,4 +58,20 @@
     line-height: 39px;
     color: #1a1a1a;
   }
+
+  &__block {
+    width: 190px;
+    margin: 0 auto;
+  }
+
+  &__button {
+    padding: 14px 21px;
+    background-color: #3a80ba;
+    border-width: 0;
+    border-radius: 8px;
+    margin: 10px;
+    font-size: 16px;
+    color: #fff;
+
+  }
 }

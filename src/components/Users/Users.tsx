@@ -10,8 +10,8 @@ export const Users = () => (
       </div>
       <div className="container">
         <p className="users__links">
-          <a className="users__link users__link--main" href="/">Main page</a>
-          <a className="users__link users__link--users" href=".">User statistics</a>
+          <a className="users__link users__link--main" href=".">Main page</a>
+          <p className="users__link users__link--users">User statistics</p>
         </p>
         <h2 className="users_title">User statistics</h2>
         <Table />

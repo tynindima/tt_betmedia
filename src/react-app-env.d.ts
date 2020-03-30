@@ -8,6 +8,8 @@ interface User {
   email: string;
   gender: string;
   ip_address: string;
+  clicks?: number;
+  views?: number;
 }
 
 interface Statistic {
