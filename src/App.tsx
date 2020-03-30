@@ -7,8 +7,8 @@ import './App.scss';
 const App: FC = () => (
   <>
     <Switch>
-      <Route path="/" exact component={Header} />
-      <Route path="/users" component={Users} />
+      <Route path="/tt_betmedia/" exact component={Header} />
+      <Route path="/tt_betmedia/users" component={Users} />
     </Switch>
   </>
 );
